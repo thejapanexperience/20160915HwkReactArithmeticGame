@@ -1,0 +1,13 @@
+#jumbo {
+  background-color: beige;
+}
+
+#addSubtractText {
+  font-size: xx-large;
+}
+
+#clickToAnswer {
+  font-size: xx-large;
+}
+
+onclick={()=>{ f1(); f2() }}
